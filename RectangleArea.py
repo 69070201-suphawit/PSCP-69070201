@@ -1,5 +1,6 @@
 """rectangle_overlap"""
 def calculate_overlap():
+    """main"""
     rect_a = list(map(int, input().split()))
     rect_b = list(map(int, input().split()))
 
